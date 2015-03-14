@@ -19,7 +19,7 @@ url: http://simbazz.info
 rss_url: 
 
 # Avatar & Favicon
-avatar: 
+avatar: /assets/img/simbazz_profile.png
 favicon: /assets/img/simbazz_profile.png
 
 # Google Analytics Set 
