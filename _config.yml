@@ -20,7 +20,7 @@ rss_url:
 
 # Avatar & Favicon
 avatar: 
-favicon: 
+favicon: /assets/img/simbazz_profile.png
 
 # Google Analytics Set 
 ga:
