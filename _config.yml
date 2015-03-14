@@ -1,0 +1,32 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+# Author Info 
+author: 
+  name: Simbazz 
+  email: Simbazz2101@gmail.com
+  link: http://simbazz.info
+  github:  
+
+# Site Info 
+title: Simbazz's Blog 
+description: Who is Simbazz? 
+url: http://simbazz.info
+rss_url: 
+
+# Avatar & Favicon
+avatar: 
+favicon: 
+
+# Google Analytics Set 
+ga:
+  id: 
+  url: simbazz.info 
+
+# Disqus Set 
+disqus:
+  shortname: simbazz
