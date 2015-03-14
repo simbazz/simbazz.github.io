@@ -1,0 +1,2 @@
+# simbazz.info
+my blog
