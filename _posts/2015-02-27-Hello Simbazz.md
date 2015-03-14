@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Simbazz
-category: life
+category: 
 keywords: ?,?,?
 ---
 
