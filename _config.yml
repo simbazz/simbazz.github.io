@@ -24,7 +24,7 @@ favicon: /assets/img/simbazz_profile.png
 
 # Google Analytics Set 
 ga:
-  id: 
+  id: UA-60793644-1
   url: simbazz.info 
 
 # Disqus Set 
