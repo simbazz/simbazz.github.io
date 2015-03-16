@@ -1,4 +1,4 @@
 # simbazz.info
 
-my blog : [simbazz.info](http://simbazz.info/)
+my blog :   [http://simbazz.info](http://simbazz.info/)
 
