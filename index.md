@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: ind
 title: Welcome
 ---
 
