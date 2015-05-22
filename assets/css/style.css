@@ -5,47 +5,6 @@
 \*---------------------------------*/
 
 /*---------------------------------*\
-   simbazz add 
-\*---------------------------------*/
-
-.my-nickname {
-  margin-bottom: 40px;
-  padding: 38px 0 50px;
-  background-color: #f6f6f6;
-  border-bottom: 2px dashed #999999;
-  font-size: 88px;
-  line-height: 1;
-  text-align: center;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
-}
-
-.my-nickname::before {
-  content: '{';
-  margin-right: 20px;
-}
-
-.my-nickname::after {
-  content: '}';
-  margin-left: 20px;
-}
-
-.my-nickname em {
-  display: inline-block;
-  vertical-align: text-bottom;
-  white-space: nowrap;
-  -webkit-animation: Open 1.5s ease-out forwards, Show 3.5s forwards;
-  -moz-animation: Open 1.5s ease-out forwards, Show 3.5s forwards;
-}
-
-@media screen and (max-device-width: 1280px) {
- 
-  .my-nickname em {
-    -webkit-animation: none, none;
-  }
-}
-
-
-/*---------------------------------*\
    Fonts
 \*---------------------------------*/
 @font-face {
