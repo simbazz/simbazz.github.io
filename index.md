@@ -10,7 +10,7 @@ title: Welcome
 <div></div>
 <div></div>
 <div></div>                            
-<header class="my-nickname" style="width:100%">
+<header class="my-nickname" style="width:1280px;">
 		<em>Simbazz</em>
 </header>   
  
