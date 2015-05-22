@@ -9,7 +9,7 @@ title: Welcome
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/IUqENZaRU0s" frameborder="0" allowfullscreen></iframe></div>
 <br/>
 <br/>                               
-<div class="my-nickname">
+<header class="my-nickname">
 		<em>Simbazz</em>
-</div>   
+</header>   
  
