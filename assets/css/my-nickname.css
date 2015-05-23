@@ -235,7 +235,7 @@ th {
 }
 
 /* line 116, ../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.4/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+header{
   display: block;
 }
 
