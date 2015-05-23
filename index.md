@@ -4,11 +4,11 @@ title: Welcome
 ---
 
 
-## Ali Journey
+## Let It GO
 
 
     
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/IUqENZaRU0s" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><embed src="http://player.youku.com/player.php/sid/XNjgxOTI4MjQ4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></div>
                        
   
  
