@@ -235,7 +235,7 @@ th {
 }
 
 /* line 116, ../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.4/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-header{
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
 
@@ -258,7 +258,7 @@ html {
 /* line 32, ../_sass/main.scss */
 body {
   min-width: 780px;
-  padding-top: 42px;
+  /*padding-top: 42px;*/
 }
 
 /* line 39, ../_sass/main.scss */
