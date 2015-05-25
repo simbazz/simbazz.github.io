@@ -4,12 +4,12 @@ title: Welcome
 ---
 
 
-## Pirates Of Silicon Valley
+## A Beautiful Mind
 
     
-<div align="center"><iframe width="560" height="346" src="https://www.youtube.com/embed/BI-nzUIYIX4" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="346" src="https://www.youtube.com/embed/YWwAOutgWBQ" frameborder="0" allowfullscreen></iframe></div>
                        
 
-\\\>cp <http://blog.csdn.net/lanxuezaipiao/article/>
-\\\>cp <http://blog.csdn.net/xiaowei_cqu>
+<hidden><http://blog.csdn.net/lanxuezaipiao/article/></hidden>
+<hidden><http://blog.csdn.net/xiaowei_cqu></hidden>
  
