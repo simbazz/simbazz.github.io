@@ -9,7 +9,6 @@ keywords: ?,?,?
 
 - [有哪些学习算法的网站推荐？ - 编程](http://www.zhihu.com/question/20368410)
 
------------------------------------------------ |
 
 - [NOCOW - 首页](http://pingce.ayyz.cn:9000/usaco/20110129214306/@e9@a6@96@e9@a1@b5.html)
 - [安阳一中.信息技术](http://pingce.ayyz.cn:9000/)
@@ -26,12 +25,10 @@ keywords: ?,?,?
 - [Codeforces](http://codeforces.com/)
 - [topcoder](http://www.topcoder.com/)
 
------------------------------------------------ |
 
 - [Virtual Judge](http://acm.hust.edu.cn/vjudge/toIndex.action)
 - [codepad](http://codepad.org/)
 
------------------------------------------------ |
 
 - [机器学习入门资源不完全汇总](http://forum.memect.com/thread/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E8%B5%84%E6%BA%90%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%B1%87%E6%80%BB/)
 - [大数据应用与技术入门资源汇总](http://forum.memect.com/thread/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%94%E7%94%A8%E4%B8%8E%E6%8A%80%E6%9C%AF-%E5%85%A5%E9%97%A8%E8%B5%84%E6%BA%90%E6%B1%87%E7%BC%96/http://forum.memect.com/thread/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%94%E7%94%A8%E4%B8%8E%E6%8A%80%E6%9C%AF-%E5%85%A5%E9%97%A8%E8%B5%84%E6%BA%90%E6%B1%87%E7%BC%96/)
@@ -60,7 +57,6 @@ keywords: ?,?,?
 - [用户行为分析&数据挖掘](http://www.douban.com/group/288667/)
 - [数据分析、数据挖掘的商业化进程](http://www.douban.com/group/331779/)
 
------------------------------------------------ |
 
 微博
 
