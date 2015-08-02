@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ALGORITHM\ML\DM
+title: ALGORITHM ML DM
 category: 
 keywords: ?,?,?
 ---
